@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/song.mp3</file>
+        <file>source/candy.png</file>
+        <file>source/Balloon1.png</file>
+        <file>source/Balloon2.png</file>
+        <file>source/Balloon3.png</file>
+        <file>source/Balloon4.png</file>
+        <file>source/bag.png</file>
+    </qresource>
+</RCC>
